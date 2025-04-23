@@ -109,9 +109,6 @@ The `llama-3.1-8b-instant` model is a powerful language model used for summarizi
 
 ---
 
-
----
-
 ## 🛠 Built With
 
 - [Next.js](https://nextjs.org/)
@@ -124,9 +121,6 @@ The `llama-3.1-8b-instant` model is a powerful language model used for summarizi
 
 ---
 
-
-
----
 
 ## 🙋‍♂️ Author
 
